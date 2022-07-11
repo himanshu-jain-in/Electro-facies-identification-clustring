@@ -1,0 +1,2 @@
+# Electro-facies-identification-clustring
+Well logging is the study of acquiring information on the physical properties of rocks obtained during oil mining. Facies The overall characteristics of a rock unit that reflect its origin and differentiate the unit from others around it. The project's objective is to Predict the Facies using the well logs data. Tools Used: Python, Numpy, Pandas, Scikit-Learn, Matplotlib, Seaborn. Data Challenges: Remove Outliers, PE log generation using mlp, Facies prediction using kmeans.
